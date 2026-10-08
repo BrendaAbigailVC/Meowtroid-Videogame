@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2a0d4a323dcf04fa597f39b50b9b7ff4
+guid: 279f646a227b743ccbbaf496a535335d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chest_0
+      name: ApagaBarrera_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 60
-        height: 36
+        width: 52
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6d7e81b057ef48d0b94b3cda9046fae
-      internalID: -1876244575
+      spriteID: 76fc3f45c9d6b46779df580c2615a9d2
+      internalID: -1247996258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chest_1
+      name: ApagaBarrera_1
       rect:
         serializedVersion: 2
-        x: 60
+        x: 52
         y: 0
-        width: 60
-        height: 36
+        width: 52
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81c7144ef7a62434cb04ccc9fd5ff66b
-      internalID: -160571868
+      spriteID: 96050208df7894990a764fc5a5521496
+      internalID: 423184850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chest_2
+      name: ApagaBarrera_2
       rect:
         serializedVersion: 2
-        x: 120
+        x: 104
         y: 0
-        width: 60
-        height: 36
+        width: 52
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77d73b025c41b45e394e60dbba6d5e6c
-      internalID: 2077426442
+      spriteID: 9e6fb2e2f20a64d0b8a7601d3451df2e
+      internalID: 1827032486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chest_3
+      name: ApagaBarrera_3
       rect:
         serializedVersion: 2
-        x: 180
+        x: 156
         y: 0
-        width: 60
-        height: 36
+        width: 52
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,8 +187,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b1f56aa3f1a640cd8079633cbabd1ce
-      internalID: -1406237225
+      spriteID: 96b1eee8617b04070ab0e3aaad9afd55
+      internalID: -1491679679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApagaBarrera_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd57f21e301eb478baaf911dfcb6afc7
+      internalID: -1920007760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApagaBarrera_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead86861ce20480880d61a9c01d1449
+      internalID: -985931761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApagaBarrera_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec2e9d682cc4de09111f0b950be05f
+      internalID: -637487919
       vertices: []
       indices: 
       edges: []
@@ -204,10 +267,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      chest_0: -1876244575
-      chest_1: -160571868
-      chest_2: 2077426442
-      chest_3: -1406237225
+      ApagaBarrera_0: -1247996258
+      ApagaBarrera_1: 423184850
+      ApagaBarrera_2: 1827032486
+      ApagaBarrera_3: -1491679679
+      ApagaBarrera_4: -1920007760
+      ApagaBarrera_5: -985931761
+      ApagaBarrera_6: -637487919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
