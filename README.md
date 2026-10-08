@@ -335,6 +335,18 @@ El concepto tiene potencial para convertirse en una franquicia mediante una segu
 
 ---
 
+## Descargar el juego
+
+¿Quieres ayudar a Michi a escapar del bosque?
+
+Descarga Meowtroid y supera los obstáculos, esquiva a los enemigos y responde las preguntas para completar el nivel.
+
+[Descargar Meowtroid](https://github.com/BrendaAbigailVC/Meowtroid-Videogame/releases/tag/v1.0.0)
+
+**Plataforma:** MacOS
+
+---
+
 # Bibliografía
 
 Morales, G., Nava, C., Fernández, L. y Rey, M. (2010). *Proceso de desarrollo para videojuegos*. **CULCyT: Cultura Científica y Tecnológica, 7**(36-37), 25-39.
