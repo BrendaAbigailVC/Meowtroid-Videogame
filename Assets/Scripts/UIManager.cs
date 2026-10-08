@@ -19,6 +19,7 @@ public class UIManager : MonoBehaviour
 
     private void ActivateGameOver(object sender, EventArgs e){
         menuGameOver.SetActive(true);
+        Time.timeScale =1;
     }
 
     public void OptionsPanel(){

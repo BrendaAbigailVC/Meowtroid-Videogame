@@ -21,6 +21,7 @@ public class Respawn : MonoBehaviour
         if(life<1){
             Death?.Invoke(this,EventArgs.Empty);
             Destroy(hearts[0].gameObject);
+            GetComponent<PlayerMovement>().Die();
         }else if(life<2){
             Destroy(hearts[1].gameObject);
         }else if(life<3){
